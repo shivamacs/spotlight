@@ -1,4 +1,4 @@
-This project is under development, contributing to this in my free time.
+>This project is under development, contributing to this in my free time.
 
 # Spotlight
 Post photos, like, comment and stay fresh in your followers' feed.
